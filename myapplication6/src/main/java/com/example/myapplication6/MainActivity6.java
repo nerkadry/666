@@ -80,6 +80,7 @@ public class MainActivity6 extends AppCompatActivity {
 
     @TargetApi(Build.VERSION_CODES.KITKAT)
     void getRates() throws java.net.MalformedURLException, java.io.IOException, ParserConfigurationException, SAXException {
+        int i;
         String srvSrc = "cbrates.rbc.ru";
         String adr = "tsv/";
         String tmp = "/2016/08/23";
