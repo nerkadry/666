@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">приложение6</string>
+    <string name="title">заголовок</string>
+    <string name="OkClickedText">нажата ок</string>
+    <string name="CancelClickedText">нажата отмена</string>
+    <string name="title1" translatable="false">titile1</string>
+</resources>
